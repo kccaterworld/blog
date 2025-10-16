@@ -12,6 +12,4 @@ This blog is stored in a separate repository from my main website, which you can
 
 ## Navigation
 
----
-[Website Home](/) | [View all tags](/blog/tags/) | [View all posts](/blog/posts/)
----
+|[Website Home](/) | [View all tags](/blog/tags/) | [View all posts](/blog/posts/) | [RSS](/blog/feed.xml)|
