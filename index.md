@@ -11,6 +11,7 @@ I'll do my best to update somewhat regularly, but who knows if I'll actually do 
 ## Navigation
 
 [View all tags](/tags/)
+
 [View all posts](/posts/)
 
 ## All Blog Posts
