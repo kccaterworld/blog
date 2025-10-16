@@ -1,6 +1,6 @@
 ---
 title: "My First Post"
-date: 2019-10-15
+date: 2025-10-15
 ---
 
 ## Hi omg ill try to update it
