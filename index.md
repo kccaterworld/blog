@@ -11,7 +11,17 @@ I'll do my best to update somewhat regularly, but who knows if I'll actually do 
 This blog is stored in a separate repository from my main website, which you can find, just for navigation purposes. The link back to the main website is below.
 
 ## Navigation
-||||
-|---|---|---|
-| [Website Home](/)     | [View all tags](/blog/tags/) | [View all posts](/blog/posts/) |
-| [RSS](/blog/feed.xml) | [Contact](/blog/contact/)    |                                |
+<table class="nav-table">
+	<tbody>
+		<tr>
+			<td><a href="/">Website Home</a></td>
+			<td><a href="{{ '/tags/' | relative_url }}">View all tags</a></td>
+			<td><a href="{{ '/posts/' | relative_url }}">View all posts</a></td>
+		</tr>
+		<tr>
+			<td><a href="{{ '/feed.xml' | relative_url }}">RSS</a></td>
+			<td><a href="{{ '/contact/' | relative_url }}">Contact</a></td>
+			<td></td>
+		</tr>
+	</tbody>
+</table>
