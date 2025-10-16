@@ -8,21 +8,10 @@ I've had this idea for a while, and I finally got it to work. This is my blog, w
 
 I'll do my best to update somewhat regularly, but who knows if I'll actually do that.
 
+This blog is stored in a separate repository from my main website, which you can find, just for navigation purposes. The link back to the main website is below.
+
 ## Navigation
 
-[Website Home](/)
-
-[View all tags](/blog/tags/)
-
-[View all posts](/blog/posts/)
-
-## All Blog Posts
-
-<ul>
-{% for post in site.posts %}
-  <li>
-    <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-    <span>{{ post.date | date: "%B %d, %Y" }}</span>
-  </li>
-{% endfor %}
-</ul>
+---
+[Website Home](/) | [View all tags](/blog/tags/) | [View all posts](/blog/posts/)
+---
