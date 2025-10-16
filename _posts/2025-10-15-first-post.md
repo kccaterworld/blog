@@ -2,7 +2,7 @@
 layout: post
 title: "My First Post"
 date: 2025-10-15
-tags: [blog post]
+tags: [blog-post]
 ---
 
 ## I guess I'm a blogger now?
