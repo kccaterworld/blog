@@ -11,4 +11,4 @@ I'll do my best to update somewhat regularly, but who knows if I'll actually do 
 This blog is stored in a separate repository from my main website, which you can find, just for navigation purposes. The link back to the main website is below.
 
 ## Navigation
-|[Website Home](/) | [View all tags](/blog/tags/) | [View all posts](/blog/posts/) | [RSS](/blog/feed.xml)|
+|[Website Home](/) | [View all tags](/blog/tags/) | [View all posts](/blog/posts/) | [RSS](/blog/feed.xml) | [Contact](/blog/contact/) |
