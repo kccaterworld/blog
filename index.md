@@ -10,6 +10,8 @@ I'll do my best to update somewhat regularly, but who knows if I'll actually do 
 
 ## Navigation
 
+[Website Home](/)
+
 [View all tags](/blog/tags/)
 
 [View all posts](/blog/posts/)
